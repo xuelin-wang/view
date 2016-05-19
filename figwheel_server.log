@@ -1,0 +1,217 @@
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.334 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.274 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.17 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.26 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.144 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.246 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.243 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.136 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.248 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.132 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.245 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.141 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.238 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.131 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.3 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.141 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.284 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.184 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.254 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.134 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.262 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.14 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.254 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.142 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Unmatched delimiter } on file /home/xuelin/dev/view/src/view/core.cljs, line 10, column 59
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.133 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.135 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Unmatched delimiter } on file /home/xuelin/dev/view/src/view/core.cljs, line 10, column 59
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.11 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Unmatched delimiter } on file /home/xuelin/dev/view/src/view/core.cljs, line 10, column 59
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.121 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.135 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Unmatched delimiter } on file /home/xuelin/dev/view/src/view/core.cljs, line 10, column 59
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.173 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Analyzing file:/home/xuelin/dev/view/src/view/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mANALYSIS ERROR: Unmatched delimiter } in file target/figwheel_temp/dev/figwheel/connect.cljs on file null, line null, column null
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.114 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Unmatched delimiter } on file /home/xuelin/dev/view/src/view/core.cljs, line 10, column 59
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.165 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+Copying file:/home/xuelin/dev/view/target/figwheel_temp/dev/figwheel/connect.cljs to resources/public/js/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.257 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+[31mCompiling "resources/public/js/main.js" failed.
+[0mERROR: Unmatched delimiter } on file /home/xuelin/dev/view/src/view/core.cljs, line 10, column 59
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.153 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+WARNING: Use of undeclared Var view.core/start at line 28 src/view/core.cljs
+WARNING: Use of undeclared Var view.core/start at line 28 src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async/impl/protocols.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async/impl/buffers.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async/impl/dispatch.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async/impl/channels.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async/impl/ioc_helpers.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async/impl/timers.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/core.async/0.2.374/core.async-0.2.374.jar!/cljs/core/async.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/clojurescript/1.8.51/clojurescript-1.8.51.jar!/clojure/set.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/clojurescript/1.8.51/clojurescript-1.8.51.jar!/clojure/string.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/figwheel/figwheel/0.5.3-1/figwheel-0.5.3-1.jar!/figwheel/client/utils.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/figwheel/figwheel/0.5.3-1/figwheel-0.5.3-1.jar!/figwheel/client/file_reloading.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/clojurescript/1.8.51/clojurescript-1.8.51.jar!/cljs/repl.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/org/clojure/clojurescript/1.8.51/clojurescript-1.8.51.jar!/cljs/reader.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/figwheel/figwheel/0.5.3-1/figwheel-0.5.3-1.jar!/figwheel/client/socket.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/figwheel/figwheel/0.5.3-1/figwheel-0.5.3-1.jar!/figwheel/client/heads_up.cljs
+Reading analysis cache for jar:file:/home/xuelin/.m2/repository/figwheel/figwheel/0.5.3-1/figwheel-0.5.3-1.jar!/figwheel/client.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+Copying file:/home/xuelin/dev/view/target/figwheel_temp/dev/figwheel/connect.cljs to resources/public/js/figwheel/connect.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 1.051 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+WARNING: Use of undeclared Var view.core/start at line 31 src/view/core.cljs
+WARNING: Use of undeclared Var view.core/start at line 31 src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+notifying browser that file changed:  resources/public/js/goog/deps.js
+notifying browser that file changed:  resources/public/js/cljs_deps.js
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.598 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.189 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+Compiling src/view/core.cljs
+Compiling target/figwheel_temp/dev/figwheel/connect.cljs
+Copying file:/home/xuelin/dev/view/src/view/core.cljs to resources/public/js/view/core.cljs
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.375 seconds.[0m
+[0mCompiling "resources/public/js/main.js" from ["src"]...
+notifying browser that file changed:  out/view/core.js
+[32mSuccessfully compiled "resources/public/js/main.js" in 0.166 seconds.[0m
